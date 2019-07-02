@@ -1,0 +1,10 @@
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\bin\Debug\CalculatorTestMutant.dll
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\bin\Debug\CalculatorTestMutant.pdb
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\bin\Debug\ConsoleApp14.exe
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\bin\Debug\nunit.framework.dll
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\bin\Debug\ConsoleApp14.pdb
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\bin\Debug\ConsoleApp14.exe.config
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\bin\Debug\nunit.framework.xml
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\obj\Debug\CalculatorTestMutant.csprojResolveAssemblyReference.cache
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\obj\Debug\CalculatorTestMutant.dll
+c:\users\manikvirdi\documents\visual studio 2017\Projects\ConsoleApp14\CalculatorTestMutant\obj\Debug\CalculatorTestMutant.pdb
